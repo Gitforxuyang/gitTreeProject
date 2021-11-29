@@ -3,5 +3,5 @@ package gitTreeLib
 import "fmt"
 
 func Doit() {
-	fmt.Println("doit3334")
+	fmt.Println("doit4")
 }
